@@ -55,7 +55,7 @@ connection.commit()
 **Challenges Faced During Development:**
 I faced numerous challenges while developing this project. I often encountered errors due to packages not being updated or not fitting my model. For instance, I had to spend several hours making sure that Tensorflow/Cmake had been installed correctly and were updated versions, because Tensorflow kept on erroring. I eventually overcame this challenge by reinstalling python first, then installing the correct version of tensorflow.
 
-Initially, it was also difficult to connect from the Raspberry Pi to the separate database. Eventually, I realized that this was because the server's port wasn't opening. After thid error was rectified, it connected well.
+Initially, it was also difficult to connect from the Raspberry Pi to the separate database. Eventually, I realized that this was because the server's port wasn't opening. After this error was rectified, it connected well.
 
 Although learning SQL wasn't too difficult, one challenge I faced afterwards was running SQL code through Python. Fortunately, I eventually figured it out.
 
