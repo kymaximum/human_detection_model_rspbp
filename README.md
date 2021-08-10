@@ -40,7 +40,7 @@ else:
     status_input = 'bad'
 ````
 
-I also had to learn basic SQL in order to create tables + columns and export data to those tables + columns. Afterwards, I was able to run the program (connected to a webcam) on my Raspberry Pi and link the results in real time to a separate database. The code below illustrates how I was able to send information to a database using SQl and python.
+I also had to learn basic SQL in order to create tables + columns and export data to those tables + columns. Afterwards, I was able to run the program (connected to a webcam) on my Raspberry Pi and link the results in real time to a separate database. The code below illustrates how I was able to send information to a database using SQL and python.
 
 ````
 import psycopg2
