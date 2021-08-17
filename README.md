@@ -1,3 +1,4 @@
+![visual representation](https://user-images.githubusercontent.com/88376943/129695688-9c62fd0c-6cec-4074-8ac4-04c0a1fb2f38.png)
 # Human Detection Project Using Raspberry Pi and Databases 
 
 **Background**: 
